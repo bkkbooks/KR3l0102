@@ -1,0 +1,52 @@
+canonical_identifier: bkk:krp/KR3l0102/v1
+canonical_location: https://kanripo.org/bkk/KR3l0102/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 續齊諧記
+  date: '2015-08-24 23:40:43.621786'
+  source:
+    repository: kanripo
+    path: KR3l0102
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR3l0102_000.yaml, hash: 'sha256:240d42c85de5e35ef1f045723bfb68253f737b4bb2d416b9c3f73c81c86732a3'}
+  - {seq: 1, filename: KR3l0102_001.yaml, hash: 'sha256:252ed0ee2a924328231da3ad001198f312e0829ee7b79180407f0557908f1ccb'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3l0102_000.markers.yaml, hash: 'sha256:60c2a7de866a9b36e802dd154f9b027643a2fa172a2cf6c2576eb795d51b401b'}
+  - {seq: 1, role: markers, filename: assets/KR3l0102_001.markers.yaml, hash: 'sha256:c82e9a0060cafa3813e4e8f8f9cd1dc2c471d03b4aba3983986b338c5c5665d7'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3l0102_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 381
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3l0102_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 3081
+  label: 續齊諧記
+  type: section
+  level: 1
+hash: sha256:45065993c7256bb40ca2db061a70ef1ef874d65e7cf88811d6ed5609231625b2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
