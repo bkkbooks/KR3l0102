@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR3l0102_000.yaml, hash: 'sha256:0e1855ccaf6611c6c62252deb360e45ebf45ad576f7477e1bfec0ff4a42277af'}
   - {seq: 1, filename: KR3l0102_001.yaml, hash: 'sha256:80dd8deefb58a93d7b02c5d006db04a4dedd523b4e3bbbe20affd1aa1155373f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3l0102_000.markers.yaml, hash: 'sha256:31d3f32e47c5b4a0be7c088907c9f5ae653b96fd926d3c24cd623dd6a85a055c'}
-  - {seq: 1, role: markers, filename: assets/KR3l0102_001.markers.yaml, hash: 'sha256:b512e6b00b1db868b8e9cac3b71282b4a5ffacf670bf19ea42f8bd54550b60e0'}
+  - {seq: 0, role: markers, filename: assets/KR3l0102_000.markers.yaml, hash: 'sha256:cc54eb228e3172f34de3563ef197def8e1133431cf8b40b37e686dfb1439fb55'}
+  - {seq: 1, role: markers, filename: assets/KR3l0102_001.markers.yaml, hash: 'sha256:4c3f27b9c3be73131dfaf7201bb4239c3873db2861cee3dab7e8325ad59b81b1'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 續齊諧記
   type: section
   level: 1
-hash: sha256:26318c852f86c8c582fcf041c3188b4f13eab6be8aa31ee5ec3188bb8fc51168
+hash: sha256:f39f07a6b9e0d75bd8950fe0f0e83d9e1e3d58b9ff8ed7faef5d97c07188db68
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
